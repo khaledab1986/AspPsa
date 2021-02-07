@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WashcoDropBox" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/khaledabdullah/Documents/washcoBox/WashcoDropBox/WashcoDropBox/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>
